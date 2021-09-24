@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [https://icc-aria.ir](https://icc-aria.ir)
 
-- 💬 Ask me about **Python,Docker,IOT,AI**
+- 💬 Ask me about **Python,IOT,AI**
 
 - 📫 How to reach me **bigdeli.ali3@gmail.com**
 
