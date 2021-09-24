@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Bigdeli</h1>
 <h3 align="center">IOT and AI Developer</h3>
 <p align="left">I am an IT graduated and with a degree in artificial intelligence and robotics.
-    His interest in the world of artificial intelligence and communications in the world of IoT led him to
-    combine the two platforms. As the basis of his education, work, and development.</p>
+    my interest in the world of artificial intelligence and communications in the world of IoT led me to
+    combine the two platforms. As the basis of my education, work, and development.</p>
 
 <p align="left">I have more than 5 years of programming experience and ability in the field of networking and
     communications facilitated his work process and plays a key role in many projects. Python, C ++ / C, and
