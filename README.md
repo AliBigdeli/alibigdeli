@@ -14,7 +14,8 @@
     as Django play an important role. Ideation and conversion of an idea into a product and reverse
     engineering of products are among his potential abilities.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alibigdeli&label=Profile%20views&color=0e75b6&style=flat" alt="alibigdeli" /> </p>
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=alibigdeli)
+![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=blue&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)
 
 - 🔭 I’m currently working on **IOT Platform**
 
