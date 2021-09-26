@@ -88,7 +88,6 @@
 </p>
 
 <h3 align="left">States:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibigdeli&show_icons=true&locale=en&layout=compact" alt="alibigdeli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibigdeli&show_icons=true&locale=en" alt="alibigdeli" /></p>
+<p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibigdeli&show_icons=true&locale=en&layout=compact" alt="alibigdeli" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibigdeli&show_icons=true&locale=en" alt="alibigdeli" /></p>
 
