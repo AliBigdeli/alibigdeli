@@ -49,7 +49,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [کنترل بورد Mantranic dev با صدای فارسی (آفلاین)](https://www.youtube.com/watch?v=bO84fUMvOpQ)
+- [کنترل بورد Mantranic dev با صدای فارسی &lpar;آفلاین&rpar;](https://www.youtube.com/watch?v=bO84fUMvOpQ)
 - [آموزش پایتون پیشرفته قسمت 10 - استفاده از handlers](https://www.youtube.com/watch?v=NFEmpdH2pQY)
 - [آموزش پایتون پیشرفته قسمت 9 - کلاس ها و توابع log](https://www.youtube.com/watch?v=xh9tyUnzfXw)
 - [آموزش پایتون پیشرفته قسمت 8 - ردگیری عملکرد در exception](https://www.youtube.com/watch?v=NpmjaqR2cII)
