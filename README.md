@@ -49,11 +49,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [کنترل بورد Mantranic dev با صدای فارسی &lpar;آفلاین&rpar;](https://www.youtube.com/watch?v=bO84fUMvOpQ)
-- [آموزش پایتون پیشرفته قسمت 10 - استفاده از handlers](https://www.youtube.com/watch?v=NFEmpdH2pQY)
-- [آموزش پایتون پیشرفته قسمت 9 - کلاس ها و توابع log](https://www.youtube.com/watch?v=xh9tyUnzfXw)
-- [آموزش پایتون پیشرفته قسمت 8 - ردگیری عملکرد در exception](https://www.youtube.com/watch?v=NpmjaqR2cII)
-- [آموزش پایتون پیشرفته قسمت 7 - basicConfig در logging](https://www.youtube.com/watch?v=ikES_sIgAb0)
+- [آموزش پایتون پیشرفته قسمت 19 - کار با ماژول sys](https://www.youtube.com/watch?v=kIJ84UqSvP8)
+- [آموزش پایتون پیشرفته قسمت 18 -](https://www.youtube.com/watch?v=Btyi340sjYI)
+- [آموزش پایتون پیشرفته قسمت 17 - کار با ماژول OS](https://www.youtube.com/watch?v=TW0FFU2NKc0)
+- [آموزش پایتون پیشرفته قسمت 16 - مدیریت timezone](https://www.youtube.com/watch?v=N1CYGySyefA)
+- [آموزش پایتون پیشرفته قسمت 15 - فرمت سازی خروجی زمانی](https://www.youtube.com/watch?v=Qnn-N75OgE0)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
