@@ -5,14 +5,14 @@
     combine the two platforms. As the basis of my education, work, and development.</p>
 
 <p align="left">I have more than 5 years of programming experience and ability in the field of networking and
-    communications facilitated his work process and plays a key role in many projects. Python, C ++ / C, and
-    Arduino are his specialties in programming.</p>
+    communications facilitated my work process and plays a key role in many projects. Python, C ++ / C, and
+    Arduino are my specialties in programming.</p>
 
 <p align="left">Since 2016, we founded a team called <a href="https://icc-aria.ir">ICC-ARIA</a>, whose goals are to teach various
     specialties in the
     field of artificial intelligence and the Internet of Things, in which backend and framework designs such
     as Django play an important role. Ideation and conversion of an idea into a product and reverse
-    engineering of products are among his potential abilities.</p>
+    engineering of products are among my potential abilities.</p>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=alibigdeli)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io)
