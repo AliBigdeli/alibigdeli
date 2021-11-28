@@ -50,7 +50,7 @@
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [آموزش پایتون پیشرفته قسمت 19 - کار با ماژول sys](https://www.youtube.com/watch?v=kIJ84UqSvP8)
-- [آموزش پایتون پیشرفته قسمت 18 -](https://www.youtube.com/watch?v=Btyi340sjYI)
+- [آموزش پایتون پیشرفته قسمت 18 - کار با Path](https://www.youtube.com/watch?v=Btyi340sjYI)
 - [آموزش پایتون پیشرفته قسمت 17 - کار با ماژول OS](https://www.youtube.com/watch?v=TW0FFU2NKc0)
 - [آموزش پایتون پیشرفته قسمت 16 - مدیریت timezone](https://www.youtube.com/watch?v=N1CYGySyefA)
 - [آموزش پایتون پیشرفته قسمت 15 - فرمت سازی خروجی زمانی](https://www.youtube.com/watch?v=Qnn-N75OgE0)
