@@ -42,11 +42,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [آموزش پایتون پیشرفته قسمت 19 - کار با ماژول sys](https://www.youtube.com/watch?v=kIJ84UqSvP8)
-- [آموزش پایتون پیشرفته قسمت 18 - کار با Path](https://www.youtube.com/watch?v=Btyi340sjYI)
-- [آموزش پایتون پیشرفته قسمت 17 - کار با ماژول OS](https://www.youtube.com/watch?v=TW0FFU2NKc0)
-- [آموزش پایتون پیشرفته قسمت 16 - مدیریت timezone](https://www.youtube.com/watch?v=N1CYGySyefA)
-- [آموزش پایتون پیشرفته قسمت 15 - فرمت سازی خروجی زمانی](https://www.youtube.com/watch?v=Qnn-N75OgE0)
+- [Ultimate Django 3.2 Template with Frontend web](https://www.youtube.com/watch?v=nan3Y7vpSOQ)
+- [Ultimate Django Template - with #nginx #gunicorn #docker #letsencrypt](https://www.youtube.com/watch?v=3tKarSHzBy4)
+- [آموزش پایتون پیشرفته قسمت 26 - دیگر استدلال های argparser](https://www.youtube.com/watch?v=bZz_K8Czwbw)
+- [آموزش پایتون پیشرفته قسمت 27 - آشنایی با requests](https://www.youtube.com/watch?v=ZwuQmLd3OFc)
+- [آموزش پایتون پیشرفته قسمت 25 - آشنایی و استفاده اولیه از Argparse](https://www.youtube.com/watch?v=36M5x5LtLWY)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
