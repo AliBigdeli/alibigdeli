@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Bigdeli</h1>
 <h3 align="center">IOT and AI Developer</h3>
 
-<p align="left">I am an IT graduate with a degree in artificial intelligence and robotics. My interest in the world of artificial intelligence and communications in the world of IoT led me to combine the two platforms. As the basis of my education, work, and development.</p>
+<p align="left">Ali Bigdeli is an IT professional with a degree in Artificial Intelligence and Robotics. His passion for the intersection of AI and IoT has been the driving force behind his education, work, and development.</p>
 
-<p align="left">I have more than 5 years of programming experience and ability in the field of networking and communications, facilitated my work process and plays a key role in many projects. Python, Django, and Arduino are my specialties in programming.</p>
+<p align="left">With over 5 years of programming experience and a strong background in networking and communications, Ali has played a pivotal role in many projects. His programming specialties include Python, C++/C, and Arduino.</p>
 
-<p align="left">Since 2016, we have founded a team called ICC-ARIA, whose goals are to teach various specialties in the field of artificial intelligence and the Internet of Things, in which backend and framework designs such as Django play an important role. Ideation and conversion of an idea into a product and reverse engineering of products are among my potential abilities.</p>
+<p align="left">In 2016, Ali founded ICC-ARIA, a team dedicated to teaching various specialties in the field of AI and IoT, with a particular focus on backend and framework designs such as Django. He has a unique ability to ideate and transform ideas into products, as well as reverse engineer existing products to uncover their underlying mechanisms.</p>
+
+<p align="left">Currently, Ali is upgrading his skills in microservices architecture and DevOps tools, such as Kubernetes and monitoring, to become a full-stack developer in the field of IoT. He is also learning ReactJS to create and develop dashboards, monitoring, and control panels for devices, which will allow him to contribute more effectively to IoT projects.</p>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=alibigdeli)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io)
@@ -13,7 +15,7 @@
 
 - 🔭 I’m currently working on **IOT Platform**
 
-- 🌱 I’m currently learning **Frontend Framework**
+- 🌱 I’m currently learning **ReactJS Frontend Framework**
 
 - 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
 
