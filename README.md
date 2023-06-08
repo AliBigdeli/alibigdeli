@@ -9,7 +9,8 @@
 
 <p align="left">Currently, Ali is upgrading his skills in microservices architecture and DevOps tools, such as Kubernetes and monitoring, to become a full-stack developer in the field of IoT. He is also learning ReactJS to create and develop dashboards, monitoring, and control panels for devices, which will allow him to contribute more effectively to IoT projects.</p>
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=alibigdeli)
+
+![Visitor count](https://komarev.com/ghpvc/?username=alibigdeli&color=green)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io)
 [![icc-aria.ir](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=blue&up_message=icc-aria.ir&url=https%3A%2F%2Ficc-aria.ir%2F)](https://icc-aria.ir)
 
@@ -83,7 +84,6 @@
 
 <h3 align="left">States:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibigdeli)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=alibigdeli&show_icons=true&line_height=40&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![AliBigdeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibigdeli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
