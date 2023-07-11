@@ -20,13 +20,13 @@
 
 - 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
 
-- 📝 I regularly write articles on [https://icc-aria.ir](https://icc-aria.ir)
+- 📝 I regularly write articles on [https://thealibigdeli.ir](https://thealibigdeli.ir)
 
 - 💬 Ask me about **Python,IOT,AI**
 
 - 📫 How to reach me **bigdeli.ali3@gmail.com**
 
-- 📄 Know about my experiences [https://icc-aria.ir](https://icc-aria.ir)
+- 📄 Know about my experiences [https://thealibigdeli.ir](https://thealibigdeli.ir)
 
 - ⚡ Fun fact **I really see different now..**
 
