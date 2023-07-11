@@ -12,7 +12,7 @@
 
 ![Visitor count](https://komarev.com/ghpvc/?username=alibigdeli&color=green)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io)
-[![icc-aria.ir](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=blue&up_message=icc-aria.ir&url=https%3A%2F%2Ficc-aria.ir%2F)](https://icc-aria.ir)
+
 
 - 🔭 I’m currently working on **IOT Platform**
 
