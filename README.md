@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [پیاده سازی Django، Nginx و gunicorn در یک کانتینر بر روی همروش - با media](https://www.youtube.com/watch?v=fCA2JAkQLSY)
 - [پیاده سازی پروژه Django بر روی پلتفرم Hamravesh - بدون media](https://www.youtube.com/watch?v=rJdOXqLe9Gw)
 - [Ultimate Django 3.2 Template with Frontend web](https://www.youtube.com/watch?v=nan3Y7vpSOQ)
 - [Ultimate Django Template - with #nginx #gunicorn #docker #letsencrypt](https://www.youtube.com/watch?v=3tKarSHzBy4)
 - [آموزش پایتون پیشرفته قسمت 26 - دیگر استدلال های argparser](https://www.youtube.com/watch?v=bZz_K8Czwbw)
-- [آموزش پایتون پیشرفته قسمت 27 - آشنایی با requests](https://www.youtube.com/watch?v=ZwuQmLd3OFc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
