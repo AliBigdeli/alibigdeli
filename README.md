@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [نحوه نصب میکروپایتون و استفاده از آن بر روی ESP و Raspberry Pico](https://www.youtube.com/watch?v=CfKsZ1cMTlk)
 - [استفاده از sentry در پروژه Django در hamravesh](https://www.youtube.com/watch?v=eOJmmjPoVs0)
 - [پیاده سازی پروژه های Django با Celery در Hamravesh](https://www.youtube.com/watch?v=qgKeoxGUDfM)
 - [پیاده سازی Django به همراه Minio در hamravesh](https://www.youtube.com/watch?v=ku75u9u53Zk)
 - [پیاده سازی Django، Nginx و gunicorn در یک کانتینر بر روی همروش - با media](https://www.youtube.com/watch?v=fCA2JAkQLSY)
-- [پیاده سازی پروژه Django بر روی پلتفرم Hamravesh - بدون media](https://www.youtube.com/watch?v=rJdOXqLe9Gw)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
