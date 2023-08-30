@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ساخت یک پایشگر آب و هوا با میکروپایتون و ارتباط با MQTT](https://www.youtube.com/watch?v=hFYiSmX8BRk)
 - [راه اندازی وب سرویس با میکروپایتون و مانیتور آب و هوا](https://www.youtube.com/watch?v=QR8zDEnpaVk)
 - [نحوه نصب میکروپایتون و استفاده از آن بر روی ESP و Raspberry Pico](https://www.youtube.com/watch?v=CfKsZ1cMTlk)
 - [استفاده از sentry در پروژه Django در hamravesh](https://www.youtube.com/watch?v=eOJmmjPoVs0)
 - [پیاده سازی پروژه های Django با Celery در Hamravesh](https://www.youtube.com/watch?v=qgKeoxGUDfM)
-- [پیاده سازی Django به همراه Minio در hamravesh](https://www.youtube.com/watch?v=ku75u9u53Zk)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
