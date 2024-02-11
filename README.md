@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [استفاده از محیط docker-compose و dev container در مدیریت پروژه](https://www.youtube.com/watch?v=Du7lyWDjqAs)
 - [راه اندازی ThingsBoard و پایش داده های محیطی با میکروپایتون](https://www.youtube.com/watch?v=C2VgPrsg6-E)
 - [راه اندازی و استفاده از NodeRed برای کنترل بورد با MQTT](https://www.youtube.com/watch?v=erJpTJOxJbA)
 - [ساخت یک پایشگر آب و هوا با میکروپایتون و ارتباط با MQTT](https://www.youtube.com/watch?v=hFYiSmX8BRk)
 - [راه اندازی وب سرویس با میکروپایتون و مانیتور آب و هوا](https://www.youtube.com/watch?v=QR8zDEnpaVk)
-- [نحوه نصب میکروپایتون و استفاده از آن بر روی ESP و Raspberry Pico](https://www.youtube.com/watch?v=CfKsZ1cMTlk)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
