@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [تکنیک های بهینه سازی و سئو در جنگو](https://www.youtube.com/watch?v=T9nETTs3cbY)
 - [نحوه نصب و پیاده سازی Caprover بر روی لینوکس](https://www.youtube.com/watch?v=oX-P08paoCo)
 - [پیاده سازی جنگو در پلتفرم های مختلف لیارا، هم روش و وی پی اس](https://www.youtube.com/watch?v=JP63avBcZGo)
 - [استفاده از محیط docker-compose و dev container در مدیریت پروژه](https://www.youtube.com/watch?v=Du7lyWDjqAs)
 - [راه اندازی ThingsBoard و پایش داده های محیطی با میکروپایتون](https://www.youtube.com/watch?v=C2VgPrsg6-E)
-- [راه اندازی و استفاده از NodeRed برای کنترل بورد با MQTT](https://www.youtube.com/watch?v=erJpTJOxJbA)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
