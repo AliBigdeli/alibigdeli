@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [پروژه طراحی فروشگاه با جنگو &lpar;demo&rpar;](https://www.youtube.com/watch?v=QlMVQWVGmug)
 - [پیاده سازی پایشگر داده با استفاده از جنگو و میکروپایتون](https://www.youtube.com/watch?v=6SwvNG9TGCM)
 - [تکنیک های بهینه سازی و سئو در جنگو](https://www.youtube.com/watch?v=T9nETTs3cbY)
 - [نحوه نصب و پیاده سازی Caprover بر روی لینوکس](https://www.youtube.com/watch?v=oX-P08paoCo)
 - [پیاده سازی جنگو در پلتفرم های مختلف لیارا، هم روش و وی پی اس](https://www.youtube.com/watch?v=JP63avBcZGo)
-- [استفاده از محیط docker-compose و dev container در مدیریت پروژه](https://www.youtube.com/watch?v=Du7lyWDjqAs)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
