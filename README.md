@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [بررسی پلتفرم های فریلنسر داخلی و نحوه گرفتن کار در این پلتفرم ها](https://www.youtube.com/watch?v=nOTKpI-9ZF8)
 - [بررسی نیازمندی های بازار فعالیت برای توسعه دهنده بک اند پایتون](https://www.youtube.com/watch?v=o8SottzI27E)
 - [بررسی مسائل سئو برای توسعه دهنده و آشنایی با ابزار های مهم](https://www.youtube.com/watch?v=hMIA8MKinaM)
 - [دوره طراحی فروشگاه با جنگو #django #docker  #python #طراحی_سایت #جنگو #آموزش #فروشگاه_آنلاین](https://www.youtube.com/watch?v=xeWW-2XyhE0)
 - [پروژه طراحی فروشگاه با جنگو &lpar;demo&rpar;](https://www.youtube.com/watch?v=QlMVQWVGmug)
-- [پیاده سازی پایشگر داده با استفاده از جنگو و میکروپایتون](https://www.youtube.com/watch?v=6SwvNG9TGCM)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
