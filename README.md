@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [چطوری بعضی تحریم های پایتون و داکر رو دور بزنیم و توسعه راحت تری داشته باشیم](https://www.youtube.com/watch?v=55hstfGOj_I)
 - [بررسی پلتفرم های فریلنسر داخلی و نحوه گرفتن کار در این پلتفرم ها](https://www.youtube.com/watch?v=nOTKpI-9ZF8)
 - [بررسی نیازمندی های بازار فعالیت برای توسعه دهنده بک اند پایتون](https://www.youtube.com/watch?v=o8SottzI27E)
 - [بررسی مسائل سئو برای توسعه دهنده و آشنایی با ابزار های مهم](https://www.youtube.com/watch?v=hMIA8MKinaM)
 - [دوره طراحی فروشگاه با جنگو #django #docker  #python #طراحی_سایت #جنگو #آموزش #فروشگاه_آنلاین](https://www.youtube.com/watch?v=xeWW-2XyhE0)
-- [پروژه طراحی فروشگاه با جنگو &lpar;demo&rpar;](https://www.youtube.com/watch?v=QlMVQWVGmug)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
