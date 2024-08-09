@@ -11,7 +11,7 @@
 
 
 ![Visitor count](https://komarev.com/ghpvc/?username=alibigdeli&color=green)
-[![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io)
+[![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://thealibigdeli.ir/about-me)
 
 
 - 🔭 I’m currently working on **IOT Platform**
@@ -40,7 +40,7 @@
 
 <h3 align="left">Tutor at:</h3>
 <p align="left">
-<a href="https://maktabkhooneh.org/learn/?q=%D8%B9%D9%84%DB%8C+%D8%A8%DB%8C%DA%AF%D8%AF%D9%84%DB%8C" target="blank"><img align="center" src="https://maktabkhooneh.org/static/images/maktabkhooneh/brandmark_small.png" alt="thealibigdeli" height="50" width="150" /></a>
+<a href="https://maktabkhooneh.org/teacher/ali-bigdeli/" target="blank"><img align="center" src="https://statics.maktabkhooneh.org/front/images/maktabkhooneh/brandmark_small.webp" alt="thealibigdeli" height="50" width="150" /></a>
 </p>
 
 ### Latest YouTube Videos
@@ -55,7 +55,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26" height="26"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26" height="26"/>
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26"/>
