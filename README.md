@@ -45,11 +45,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [انتقال پروژه Django از پلتفرم Liara به پلتفرم Hamravesh](https://www.youtube.com/watch?v=cu59m8SeeCA)
 - [پیاده سازی پروژه Django Channels &lpar;ASGI/Websocket&rpar; بر روی پلتفرم Hamravesh](https://www.youtube.com/watch?v=GvWG3wN4rrU)
 - [پیاده سازی پروژه django بر روی پلتفرم Caprover به همراه Media](https://www.youtube.com/watch?v=yC_52M5Ru1c)
 - [چطوری بعضی تحریم های پایتون و داکر رو دور بزنیم و توسعه راحت تری داشته باشیم](https://www.youtube.com/watch?v=55hstfGOj_I)
 - [بررسی پلتفرم های فریلنسر داخلی و نحوه گرفتن کار در این پلتفرم ها](https://www.youtube.com/watch?v=nOTKpI-9ZF8)
-- [بررسی نیازمندی های بازار فعالیت برای توسعه دهنده بک اند پایتون](https://www.youtube.com/watch?v=o8SottzI27E)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
