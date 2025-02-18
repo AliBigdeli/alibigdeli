@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [به هر برنامه نویسی نباید اعتماد کنین، عدم وجود مشاور باعث شکست میشه](https://www.youtube.com/watch?v=ATjhKgf_Jqc)
 - [رویداد رزومه نویسی و چقدر باید بدونید تا وارد بازار کار بشید](https://www.youtube.com/watch?v=wuyOQ-7TfMQ)
 - [رویداد مسیر یادگیری بک اند پایتون](https://www.youtube.com/watch?v=QA898JMnMZk)
 - [بررسی حل مسئله به روش پازل در برنامه نویسی](https://www.youtube.com/watch?v=4NoOElDpQNE)
 - [انتقال پروژه Django از پلتفرم Liara به پلتفرم Hamravesh](https://www.youtube.com/watch?v=cu59m8SeeCA)
-- [پیاده سازی پروژه Django Channels &lpar;ASGI/Websocket&rpar; بر روی پلتفرم Hamravesh](https://www.youtube.com/watch?v=GvWG3wN4rrU)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
