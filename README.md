@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [علی اولین سایتی که خودت زدی چطور بود](https://www.youtube.com/watch?v=phrMBEYUIYg)
-- [به هر برنامه نویسی نباید اعتماد کنین، عدم وجود مشاور باعث شکست میشه](https://www.youtube.com/watch?v=ATjhKgf_Jqc)
-- [رویداد رزومه نویسی و چقدر باید بدونید تا وارد بازار کار بشید](https://www.youtube.com/watch?v=wuyOQ-7TfMQ)
-- [رویداد مسیر یادگیری بک اند پایتون](https://www.youtube.com/watch?v=QA898JMnMZk)
-- [بررسی حل مسئله به روش پازل در برنامه نویسی](https://www.youtube.com/watch?v=4NoOElDpQNE)
+- [ورژن های FastAPI و ماژول ها](https://www.youtube.com/watch?v=K886F8SpQzY)
+- [fast api چیست](https://www.youtube.com/watch?v=U2v94tHDvBA)
+- [چه چیز هایی یاد خواهید گرفت](https://www.youtube.com/watch?v=YUOsENnPa_w)
+- [پیشنیازهای دوره](https://www.youtube.com/watch?v=LZmRffFKQ8w)
+- [آشنایی با دوره FastAPI](https://www.youtube.com/watch?v=RpOXdKlcKpI)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
