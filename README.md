@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [درخواست List اطلاعات و بررسی Rest Design](https://www.youtube.com/watch?v=nPFgyAVdC9w)
-- [بررسی عملکرد app و انواع درخواست ها](https://www.youtube.com/watch?v=KcGrgttIT0E)
-- [ساخت اولین route و اجرای پروژه](https://www.youtube.com/watch?v=lcUfl0vZ-l4)
-- [ایجاد ساختار پروژه و environment](https://www.youtube.com/watch?v=Ote7yJe1umU)
-- [تفاوت های بین Flaskو Django و FastAPI](https://www.youtube.com/watch?v=_cY2LAn2ZQ4)
+- [ایجاد ساختار پروژه](https://www.youtube.com/watch?v=TxC7R3yPH_E)
+- [راه اندازی و استفاده از pyTelegramBotAPI](https://www.youtube.com/watch?v=xPid8Vs3U6g)
+- [ساخت ربات در bot father](https://www.youtube.com/watch?v=Zclu7dKLRbM)
+- [آشنایی با api تلگرام](https://www.youtube.com/watch?v=nbT1uVN9TIA)
+- [تعامل با api تلگرام](https://www.youtube.com/watch?v=2mjxavHZc-M)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
