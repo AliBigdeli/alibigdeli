@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [ورژن های FastAPI و ماژول ها](https://www.youtube.com/watch?v=K886F8SpQzY)
-- [fast api چیست](https://www.youtube.com/watch?v=U2v94tHDvBA)
-- [چه چیز هایی یاد خواهید گرفت](https://www.youtube.com/watch?v=YUOsENnPa_w)
-- [پیشنیازهای دوره](https://www.youtube.com/watch?v=LZmRffFKQ8w)
-- [آشنایی با دوره FastAPI](https://www.youtube.com/watch?v=RpOXdKlcKpI)
+- [درخواست List اطلاعات و بررسی Rest Design](https://www.youtube.com/watch?v=nPFgyAVdC9w)
+- [بررسی عملکرد app و انواع درخواست ها](https://www.youtube.com/watch?v=KcGrgttIT0E)
+- [ساخت اولین route و اجرای پروژه](https://www.youtube.com/watch?v=lcUfl0vZ-l4)
+- [ایجاد ساختار پروژه و environment](https://www.youtube.com/watch?v=Ote7yJe1umU)
+- [تفاوت های بین Flaskو Django و FastAPI](https://www.youtube.com/watch?v=_cY2LAn2ZQ4)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
