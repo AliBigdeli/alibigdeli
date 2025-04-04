@@ -16,19 +16,19 @@
 
 - 🔭 I’m currently working on **IOT Platform**
 
-- 🌱 I’m currently learning **ReactJS Frontend Framework**
+- 🌱 I’m currently learning **ReactJS & NextJS Frontend Framework**
 
-- 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
+- 👯 I’m looking to collaborate on **IOT Projects as R&D Projects**
 
 - 📝 I regularly write articles on [https://thealibigdeli.ir](https://thealibigdeli.ir)
 
-- 💬 Ask me about **Python,IOT,AI**
+- 💬 Ask me about **Python,IOT,AI,FastAPI,Django**
 
 - 📫 How to reach me **bigdeli.ali3@gmail.com**
 
 - 📄 Know about my experiences [https://thealibigdeli.ir](https://thealibigdeli.ir)
 
-- ⚡ Fun fact **I really see different now..**
+- ⚡ Fun fact **I really see different now...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +41,7 @@
 <h3 align="left">Tutor at:</h3>
 <p align="left">
 <a href="https://maktabkhooneh.org/teacher/ali-bigdeli/" target="blank"><img align="center" src="https://statics.maktabkhooneh.org/front/images/maktabkhooneh/brandmark_small.webp" alt="thealibigdeli" height="50" width="150" /></a>
-<a href="https://danajou.com/ali_bigdeli" target="blank"><img align="center" src="https://thealibigdeli.ir/static/images/client/danajou.png" alt="thealibigdeli" height="100" width="110" /></a>
+<a href="https://danajou.com/ali_bigdeli" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e4e9e85d-3dbd-4099-953c-41121317cab5" alt="thealibigdeli" height="75" width="150" /></a>
 </p>
 
 ### Latest YouTube Videos
@@ -78,7 +78,6 @@
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="26" height="26"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26" height="26"/>
 </p>
 
 <h3 align="left">States:</h3>
