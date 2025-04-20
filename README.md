@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [ایجاد ساختار پروژه](https://www.youtube.com/watch?v=TxC7R3yPH_E)
-- [راه اندازی و استفاده از pyTelegramBotAPI](https://www.youtube.com/watch?v=xPid8Vs3U6g)
-- [ساخت ربات در bot father](https://www.youtube.com/watch?v=Zclu7dKLRbM)
-- [آشنایی با api تلگرام](https://www.youtube.com/watch?v=nbT1uVN9TIA)
-- [تعامل با api تلگرام](https://www.youtube.com/watch?v=2mjxavHZc-M)
+- [مدیریت اعلان رخداد ها با تلگرام در Dokploy](https://www.youtube.com/watch?v=cO8HmdKMvyI)
+- [مدیریت سطح دسترسی کاربران در Dokploy](https://www.youtube.com/watch?v=uZ4CZ0qt_Ss)
+- [پیاده سازی پشتیبان گیری خودکار در Dokploy](https://www.youtube.com/watch?v=xU_HC5H_7TY)
+- [اتصال و پیاده سازی  سرویس با github provider](https://www.youtube.com/watch?v=jR0EuP5wuBM)
+- [پیاده سازی سرویس در Dokploy](https://www.youtube.com/watch?v=UJrxBldozpg)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
