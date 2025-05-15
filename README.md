@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [وبینار بررسی جایگاه برنامه نویسی در رشته های مختلف و ایجاد فرصت های شغلی](https://www.youtube.com/watch?v=4DyYh9pVRWM)
 - [مدیریت اعلان رخداد ها با تلگرام در Dokploy](https://www.youtube.com/watch?v=cO8HmdKMvyI)
 - [مدیریت سطح دسترسی کاربران در Dokploy](https://www.youtube.com/watch?v=uZ4CZ0qt_Ss)
 - [پیاده سازی پشتیبان گیری خودکار در Dokploy](https://www.youtube.com/watch?v=xU_HC5H_7TY)
 - [اتصال و پیاده سازی  سرویس با github provider](https://www.youtube.com/watch?v=jR0EuP5wuBM)
-- [پیاده سازی سرویس در Dokploy](https://www.youtube.com/watch?v=UJrxBldozpg)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
