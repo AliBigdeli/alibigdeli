@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [بررسی مسیر یادگیری معماری میکروسرویس در پایتون](https://www.youtube.com/watch?v=CsS6vvlcP1k)
+- [بررسی مسیر یادگیری طراحی سرویس و API با پایتون](https://www.youtube.com/watch?v=vI5m66uz1c8)
+- [بررسی مسیر یادگیری طراحی سایت](https://www.youtube.com/watch?v=EW-SJ-miBFU)
+- [بررسی مسیر یادگیری توسعه دهنده پایتون](https://www.youtube.com/watch?v=ypDXqZFZy8Y)
 - [وبینار بررسی جایگاه برنامه نویسی در رشته های مختلف و ایجاد فرصت های شغلی](https://www.youtube.com/watch?v=4DyYh9pVRWM)
-- [مدیریت اعلان رخداد ها با تلگرام در Dokploy](https://www.youtube.com/watch?v=cO8HmdKMvyI)
-- [مدیریت سطح دسترسی کاربران در Dokploy](https://www.youtube.com/watch?v=uZ4CZ0qt_Ss)
-- [پیاده سازی پشتیبان گیری خودکار در Dokploy](https://www.youtube.com/watch?v=xU_HC5H_7TY)
-- [اتصال و پیاده سازی  سرویس با github provider](https://www.youtube.com/watch?v=jR0EuP5wuBM)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
