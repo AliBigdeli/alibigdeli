@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [رویداد مسیر یادگیری برنامه نویسی](https://www.youtube.com/watch?v=rLPBIDZV6vw)
 - [بررسی مسیر یادگیری معماری میکروسرویس در پایتون](https://www.youtube.com/watch?v=CsS6vvlcP1k)
 - [بررسی مسیر یادگیری طراحی سرویس و API با پایتون](https://www.youtube.com/watch?v=vI5m66uz1c8)
 - [بررسی مسیر یادگیری طراحی سایت در استک پایتون](https://www.youtube.com/watch?v=EW-SJ-miBFU)
 - [بررسی مسیر یادگیری توسعه دهنده پایتون](https://www.youtube.com/watch?v=ypDXqZFZy8Y)
-- [وبینار بررسی جایگاه برنامه نویسی در رشته های مختلف و ایجاد فرصت های شغلی](https://www.youtube.com/watch?v=4DyYh9pVRWM)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
