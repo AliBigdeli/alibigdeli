@@ -80,8 +80,24 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="26" height="26"/>
 </p>
 
-<h3 align="left">States:</h3>
-
-![AliBigdeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibigdeli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/alibigdeli">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=alibigdeli&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/alibigdeli">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=alibigdeli&theme=dracula" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
