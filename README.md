@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [آموزش جامع پایتون 0 - معرفی دوره آموزش جامع پایتون](https://www.youtube.com/watch?v=0erhFmbZCw0)
 - [رویداد مسیر یادگیری برنامه نویسی](https://www.youtube.com/watch?v=rLPBIDZV6vw)
 - [بررسی مسیر یادگیری معماری میکروسرویس در پایتون](https://www.youtube.com/watch?v=CsS6vvlcP1k)
 - [بررسی مسیر یادگیری طراحی سرویس و API با پایتون](https://www.youtube.com/watch?v=vI5m66uz1c8)
 - [بررسی مسیر یادگیری طراحی سایت در استک پایتون](https://www.youtube.com/watch?v=EW-SJ-miBFU)
-- [بررسی مسیر یادگیری توسعه دهنده پایتون](https://www.youtube.com/watch?v=ypDXqZFZy8Y)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
