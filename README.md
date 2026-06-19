@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [آموزش جامع پایتون 6 - حل مسئله و الگو های حل مسئله چیست؟](https://www.youtube.com/watch?v=GsxJPqtPmCQ)
 - [آموزش جامع پایتون 5 - نقش معماری کامپیوتر در برنامه نویسی](https://www.youtube.com/watch?v=_wqM9yg0CIA)
 - [آموزش جامع پایتون 3 - فلوچارت و تاثیر آن در انتقال مطلب](https://www.youtube.com/watch?v=hWx23JgOISs)
 - [آموزش جامع پایتون 2 - برنامه نویسی و تفاوت آن با کدنویسی](https://www.youtube.com/watch?v=mcY9ROF_Yz4)
 - [آموزش جامع پایتون 1 - آشنایی با دوره و بخش های مختلف](https://www.youtube.com/watch?v=r4l9Lser5-Y)
-- [آموزش جامع پایتون 0 - معرفی دوره آموزش جامع پایتون](https://www.youtube.com/watch?v=0erhFmbZCw0)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
