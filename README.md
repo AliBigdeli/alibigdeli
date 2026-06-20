@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [آموزش جامع پایتون 9 - معرفی ویژگی های زبان برنامه نویسی پایتون](https://www.youtube.com/watch?v=S-VNODhJC0M)
+- [آموزش جامع پایتون 8 - تفاوت زبان های مفسری و کامپایلری](https://www.youtube.com/watch?v=14U4bFItedc)
 - [آموزش جامع پایتون 7 - پیشینه ای از زبان های برنامه نویسی](https://www.youtube.com/watch?v=Pxmkl-hOjgg)
 - [آموزش جامع پایتون 6 - حل مسئله و الگو های حل مسئله چیست؟](https://www.youtube.com/watch?v=GsxJPqtPmCQ)
 - [آموزش جامع پایتون 5 - نقش معماری کامپیوتر در برنامه نویسی](https://www.youtube.com/watch?v=_wqM9yg0CIA)
-- [آموزش جامع پایتون 3 - فلوچارت و تاثیر آن در انتقال مطلب](https://www.youtube.com/watch?v=hWx23JgOISs)
-- [آموزش جامع پایتون 2 - برنامه نویسی و تفاوت آن با کدنویسی](https://www.youtube.com/watch?v=mcY9ROF_Yz4)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
