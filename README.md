@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [آموزش جامع پایتون 18 - منطق های بولین](https://www.youtube.com/watch?v=d7203ZoPynY)
+- [آموزش جامع پایتون 17 - شرط و دستورات if](https://www.youtube.com/watch?v=rFMlWwBhySE)
+- [آموزش جامع پایتون 16 - توابع بولین و مقایسه](https://www.youtube.com/watch?v=uk3pX9XBOX8)
+- [تست IQ برای چی هستش و چطور باید فکر کنیم و الگو ها رو پیدا کنیم](https://www.youtube.com/watch?v=U3GGINnexg4)
 - [آموزش جامع پایتون 15 - فضای ذخیره سازی در متغیر ها](https://www.youtube.com/watch?v=CIOx22FEfJg)
-- [آموزش جامع پایتون 14 - آشنایی با متغیر ها یا Variables](https://www.youtube.com/watch?v=foEH9MVaXo4)
-- [آموزش جامع پایتون 13 - آشنایی با رشته یا String](https://www.youtube.com/watch?v=fpgfgXlZj7Q)
-- [آموزش جامع پایتون 12 - انواع DataType ها در پایتون](https://www.youtube.com/watch?v=U1vtE-sDqwk)
-- [آموزش جامع پایتون 11 - شروع برنامه نویسی با پایتون](https://www.youtube.com/watch?v=AwydCXskMyE)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
