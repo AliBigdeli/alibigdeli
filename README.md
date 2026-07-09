@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [آموزش جامع پایتون 18 - منطق های بولین](https://www.youtube.com/watch?v=d7203ZoPynY)
-- [آموزش جامع پایتون 17 - شرط و دستورات if](https://www.youtube.com/watch?v=rFMlWwBhySE)
-- [آموزش جامع پایتون 16 - توابع بولین و مقایسه](https://www.youtube.com/watch?v=uk3pX9XBOX8)
-- [تست IQ برای چی هستش و چطور باید فکر کنیم و الگو ها رو پیدا کنیم](https://www.youtube.com/watch?v=U3GGINnexg4)
-- [آموزش جامع پایتون 15 - فضای ذخیره سازی در متغیر ها](https://www.youtube.com/watch?v=CIOx22FEfJg)
+- [آموزش جامع پایتون 55 - توابع بازگشتی](https://www.youtube.com/watch?v=EYuL9Dy39ZM)
+- [آموزش جامع پایتون 54 - نحوه استفاده و ساخت decorator](https://www.youtube.com/watch?v=JgNZxFfjGMM)
+- [آموزش جامع پایتون 53 - استفاده از generators](https://www.youtube.com/watch?v=6eD4L-ie7ao)
+- [آمزش جامع پایتون 52 - توابع map filter sorted](https://www.youtube.com/watch?v=FV4LKCzQHPc)
+- [آموزش جامع پایتون 51 - توابع lambda](https://www.youtube.com/watch?v=18BdxrVcrsQ)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
