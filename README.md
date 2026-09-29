@@ -46,11 +46,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [آموزش جامع پایتون 55 - توابع بازگشتی](https://www.youtube.com/watch?v=EYuL9Dy39ZM)
-- [آموزش جامع پایتون 54 - نحوه استفاده و ساخت decorator](https://www.youtube.com/watch?v=JgNZxFfjGMM)
-- [آموزش جامع پایتون 53 - استفاده از generators](https://www.youtube.com/watch?v=6eD4L-ie7ao)
-- [آمزش جامع پایتون 52 - توابع map filter sorted](https://www.youtube.com/watch?v=FV4LKCzQHPc)
-- [آموزش جامع پایتون 51 - توابع lambda](https://www.youtube.com/watch?v=18BdxrVcrsQ)
+- [تست IQ برای چی هستش و چطور باید فکر کنیم و الگو ها رو پیدا کنیم](https://www.youtube.com/watch?v=U3GGINnexg4)
+- [رویداد مسیر یادگیری برنامه نویسی](https://www.youtube.com/watch?v=rLPBIDZV6vw)
+- [بررسی مسیر یادگیری معماری میکروسرویس در پایتون](https://www.youtube.com/watch?v=CsS6vvlcP1k)
+- [بررسی مسیر یادگیری طراحی سرویس و API با پایتون](https://www.youtube.com/watch?v=vI5m66uz1c8)
+- [بررسی مسیر یادگیری طراحی سایت در استک پایتون](https://www.youtube.com/watch?v=EW-SJ-miBFU)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
